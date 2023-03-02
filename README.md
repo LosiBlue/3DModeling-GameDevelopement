@@ -1,4 +1,4 @@
 # 3DModeling-GameDevelopement
--3DModeling in Blender
+-3D Modeling in Blender
 
 -Unity Tutorial Projects
